@@ -1,0 +1,130 @@
+Included years for all activities:
+b5_years = [2005, 2009, 2013, 2019]
+mcs_years = [2006, 2010, 2014, 2020]
+wealth_years = [2002, 2007, 2012, 2017]
+
+
+pli0079:   Going out for dinner or drinks (café, pub, restaurant)
+
+All years with data: [1990 1995 1998 2003 2008 2013 2017 2018 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33384
+
+
+pli0080:   Visiting or being visited by neighbors, friends, or acquaintances
+
+All years with data: [1990 1995 1998 2003 2008 2013 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33316
+
+
+pli0081:   Visiting or being visited by family members or relatives
+
+All years with data: [1990 1995 1998 2003 2008 2013 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33321
+
+
+pli0181:   Keeping in touch with friends or relatives abroad (by telephone, e-mail, Internet phone, skype, etc.)
+
+All years with data: [2008 2013 2017 2018 2019]
+Selected years with data: [2008, 2013, 2019]
+Total number of datapoints: 25123
+
+
+plh0390:   [de] Nutzen sozialer Online-Netzwerke   Chat-Dienste (z.B. Facebook   Instagram   Twitter   WhatsApp)
+
+All years with data: [2019]
+Selected years with data: [2019]
+Total number of datapoints: 8643
+
+
+pli0082:   Going on an excursion or short trip
+
+All years with data: [1990 1995 1998 2003 2008 2013 2017 2018 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33324
+
+
+pli0098_h:   Going to church, attending religious events
+
+All years with data: [1990 1992 1994 1995 1996 1997 1998 1999 2001 2003 2005 2007 2008 2009
+ 2011 2013 2015 2017 2018 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33285
+
+
+pli0083:   [de] Fernsehen   Filme, Serien oder Videos sehen (auch Mediatheken   Internet-Streams   DVD   etc.)
+
+All years with data: [1990 1995 1998 2003 2008 2013 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33361
+
+
+plh0391:   [de] Lesen von Büchern (auch eBooks)
+
+All years with data: [2019]
+Selected years with data: [2019]
+Total number of datapoints: 8654
+
+
+plh0392:   [de] Lesen von (Tages-)Zeitungen (auch ePaper)
+
+All years with data: [2019]
+Selected years with data: [2019]
+Total number of datapoints: 8660
+
+
+pli0093_h:   Artistic and musical activities (painting, music, photography, theater, dance)
+
+All years with data: [1990 1995 1998 2001 2003 2005 2007 2008 2009 2011 2013 2015 2017 2018
+ 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33311
+
+
+plh0393:   [de] Reparaturen am Haus, in der Wohnung oder an Fahrzeugen   Gartenarbeit   Fahrzeugpflege
+
+All years with data: [2019]
+Selected years with data: [2019]
+Total number of datapoints: 8651
+
+
+pli0092_h:   Taking part in sports
+
+All years with data: [1984 1985 1986 1988 1990 1992 1994 1995 1996 1997 1998 1999 2001 2003
+ 2005 2007 2008 2009 2011 2013 2015 2017 2018 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33283
+
+
+pli0089:   Going to sporting events
+
+All years with data: [1990 1995 1998 2003 2008 2013 2017 2018 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33268
+
+
+pli0091_h:   Going to the cinema, pop concerts, dance events, clubs
+
+All years with data: [1985 1986 1988 1990 1992 1994 1995 1996 1997 1998 1999 2001 2003 2005
+ 2007 2008 2009 2011 2013 2015 2017 2018 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33336
+
+
+pli0090_h:   Going to cultural events such as opera, classical concerts, theater, exhibitions
+
+All years with data: [1984 1985 1986 1988 1990 1992 1994 1995 1996 1997 1998 1999 2001 2003
+ 2005 2007 2008 2009 2011 2013 2015 2017 2018 2019]
+Selected years with data: [2003, 2008, 2013, 2019]
+Total number of datapoints: 33347
+
+
+plh0394:   [de] Einfach nichts tun   abhängen   träumen
+
+All years with data: [2019]
+Selected years with data: [2019]
+Total number of datapoints: 8618
+
+
