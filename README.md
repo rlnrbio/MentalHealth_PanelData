@@ -10,7 +10,7 @@ In the past decades, mental health has become a growing concern across the world
 Social as well as physical activities are often associated with lower risks for mental health events. However, a lot of these analyses often do not take personalitiy characteristics into account 
 This project has the goal of developing an analysis approach based on Panel-Data from the [SOEP](https://www.diw.de/soep), the largest Panel dataset available in Germany, to establish whether the described activities effect the risk for mental health events differently in different personality subsets of the population.
 
-![Relationship between Age and Mental health (left) and Physical health (right)] [mcs_pcs]
+![Relationship between Age and Mental health (left) and Physical health (right)][mcs_pcs]
 Left: Relationship between Age and Mental Health, Right: Relationship between Age and Physical Health, split for men and women. 
 
 ## Methods
